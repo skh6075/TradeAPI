@@ -2,4 +2,5 @@ name: TradeAPI
 antigen: nlog\trade
 api: 3.10.0
 version: 1.0.0
-author: nnnlogANDavas
+author: nnnlog
+updater: AvasKr
