@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PMVirion/TradeAPI
+build-by-default: true
+branches:
+- main
+projects:
+  TradeAPI:
+    path: ""
+    model: virion
+    type: library
+...
